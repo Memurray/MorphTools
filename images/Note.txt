@@ -1,0 +1,1 @@
+This will be the output folder for the images created by the program. This note really only exists so that I can "upload" a folder.
